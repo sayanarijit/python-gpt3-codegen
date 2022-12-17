@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+__python_gpt3_codegen_cache__/
 
 # C extensions
 *.so
